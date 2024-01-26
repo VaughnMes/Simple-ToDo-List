@@ -3,7 +3,7 @@
 
 let textElement = document.querySelector('#textElement');
 let inputField = document.querySelector('#myTextInput');
-let list = document.querySelector('#myList'); // Assuming you have a <ul> or <ol> with id="myList"
+let list = document.querySelector('#myList'); 
 
 textElement.addEventListener('click', function() {
     
